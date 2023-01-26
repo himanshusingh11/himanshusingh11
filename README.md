@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh </h1>
-<h3 align="center">A  Web Developer, JAVA Programmer & IoT Developer</h3>
+<h3 align="center">A  Javscript Developer, Codes in JAVASCRIPT & JAVA & IoT Developer</h3>
 
 - 🔭 I’m currently working as a  **Software Engineer at To The NEW**
 

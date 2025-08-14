@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a  **Senior Software Engineer at Clarivate**
 
-- 🌱 I’m currently working as a  **MERN Stack Developer **
+- 🌱 I’m currently working as a  **Backend Developer with Nest , TS , Postgresql , AWS , Docker **
 
 - 👯 I’m looking to collaborate on **Web , automation & Iot Based Projects** 
 

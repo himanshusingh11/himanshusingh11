@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh </h1>
 <h3 align="center">A  Javscript Developer, Likes to codes in Javascript & Java </h3>
 
-- 🔭 I’m currently working as a  **Software Engineer at To The NEW**
+- 🔭 I’m currently working as a  **Senior Software Engineer at Clarivate**
 
 - 🌱 I’m currently working as a  **MERN Stack Developer **
 
